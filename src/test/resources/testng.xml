@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite de Testes">
+    <test name="Teste de Exemplo">
+        <classes>
+            <class name="app.bugbank.RunnerTest"/>
+        </classes>
+    </test>
+</suite>
